@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.8e8bcea8.chunk.css",
+    "main.js": "/Dashboard/static/js/main.ad412027.chunk.js",
+    "main.js.map": "/Dashboard/static/js/main.ad412027.chunk.js.map",
+    "runtime-main.js": "/Dashboard/static/js/runtime-main.3003149a.js",
+    "runtime-main.js.map": "/Dashboard/static/js/runtime-main.3003149a.js.map",
+    "static/css/2.1881a404.chunk.css": "/Dashboard/static/css/2.1881a404.chunk.css",
+    "static/js/2.745deb4c.chunk.js": "/Dashboard/static/js/2.745deb4c.chunk.js",
+    "static/js/2.745deb4c.chunk.js.map": "/Dashboard/static/js/2.745deb4c.chunk.js.map",
+    "index.html": "/Dashboard/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/Dashboard/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.8e8bcea8.chunk.css.map": "/Dashboard/static/css/main.8e8bcea8.chunk.css.map",
+    "static/js/2.745deb4c.chunk.js.LICENSE.txt": "/Dashboard/static/js/2.745deb4c.chunk.js.LICENSE.txt",
+    "static/js/main.ad412027.chunk.js.LICENSE.txt": "/Dashboard/static/js/main.ad412027.chunk.js.LICENSE.txt",
+    "static/media/marc.e8607287.jpg": "/Dashboard/static/media/marc.e8607287.jpg",
+    "static/media/salvus-R_logo.54958d58.png": "/Dashboard/static/media/salvus-R_logo.54958d58.png",
+    "static/media/sidebar-1.0a127c58.jpg": "/Dashboard/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/Dashboard/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/Dashboard/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/Dashboard/static/media/sidebar-4.dd4b5581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3003149a.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.745deb4c.chunk.js",
+    "static/css/main.8e8bcea8.chunk.css",
+    "static/js/main.ad412027.chunk.js"
+  ]
+}
